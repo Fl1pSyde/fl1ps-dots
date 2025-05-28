@@ -1,0 +1,26 @@
+label.module {
+	color: #ffffff;
+	}
+
+window#waybar {
+	background-color: transparent;
+	}
+
+#idle-inhibitor,
+#pulseaudio,
+#network,
+#power-profiles-daemon,
+#cpu,
+#memory,
+#temperature,
+#backlight,
+#keyboard-state,
+#battery,
+#clock {
+	margin:5px;
+}
+
+* {
+    font-family: "jetbrainsmonoNF", "Font Awesome 6 Free";
+    font-size: 12pt;
+}
