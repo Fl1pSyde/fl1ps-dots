@@ -1,5 +1,5 @@
 # fl1ps-dots
-These are my dotfiles for hyprland. If you don't like hyprland, GTFO.
+These are my dotfiles. If you don't like what I use, GTFO.
 
-You will need bibata-modern-ice, waypaper and waybar.
-Unzip hyprfile.zip to ~/.config. If you already have a hypr file, please delete it to mitigate issues.
+You will need bibata-modern-ice, waypaper, kitty and waybar.
+Unzip hyprfile.zip to ~/.config. If you already have files for these in .config or dotfiles, please delete the old file to mitigate issues.
